@@ -1,1 +1,2 @@
 vault is a burrito
+foo:bar
